@@ -1,9 +1,10 @@
 img {
-  width: 500px;
+  width: 225px;
 }
 body {
     text-align: center;
-    font-family: 'Arial';
+    font-family: 'Fraktur';
+    font-size: xx-large;
     background: purple;
     color: yellow;
 }
